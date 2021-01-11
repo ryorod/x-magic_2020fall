@@ -1,5 +1,6 @@
 .DS_Store
-/Backup/
+/fluid_simulation/Backup/
 *.toe
 !/fluid_simulation/fluid_simulation.toe
-/NSynth_Sounds/
+/somnio_sound/NSynth_Sounds/
+/somnio_sound/Backup/
