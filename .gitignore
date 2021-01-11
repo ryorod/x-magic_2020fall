@@ -2,3 +2,4 @@
 /Backup/
 *.toe
 !/fluid_simulation/fluid_simulation.toe
+/NSynth_Sounds/
